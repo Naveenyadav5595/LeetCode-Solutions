@@ -1,84 +1,73 @@
-<h1 align="center">🚀 LeetCode Solutions</h1>
+<h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
+<h3 align="center"> Aspiring Software Engineer | Competitive Programmer | MERN Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=520%2B+LeetCode+Problems+Solved;1700%2B+LeetCode+Rating;3%E2%98%85+CodeChef;C%2B%2B+Solutions;Competitive+Programmer;Consistency+%7C+Learning+%7C+Growth" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Problems_Solved-520-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Repository-Active-brightgreen?style=for-the-badge">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=700%2B+DSA+Problems+Solved;1700%2B+LeetCode+Rating;3%E2%98%85+CodeChef;MERN+Stack+Developer;" />
 </p>
 
 ---
 
-# 📖 About
+# 🚀 About Me
 
-This repository contains my accepted **LeetCode** solutions written in **C++**.
-
-My goal is to strengthen problem-solving skills, master Data Structures & Algorithms, and prepare for Software Engineering interviews.
-
-
----
-
-# 📊 Current Progress
-
-| Platform | Status |
-|----------|--------|
-| 🟠 LeetCode Problems Solved | **520+** |
-| ⭐ LeetCode Rating | **1700+** |
-| ⭐ CodeChef | **3★** |
-| 💻 Primary Language | **C++** |
+- 🎓 B.Tech ICE Student at **NIT Jalandhar**
+- 💻 Passionate about **Software Engineering, Backend Development, DSA**
+- 🏆 Solved **700+ DSA Problems**
+- ⭐ **3★ CodeChef**
+- 📈 **1700+ Rating on LeetCode**
 
 ---
 
-# 📚 Topics Covered
+# 🌐 Connect With Me
 
-- Arrays
-- Strings
-- Hashing
-- Two Pointers
-- Sliding Window
-- Binary Search
-- Stack
-- Queue
-- Heap
-- Linked List
-- Trees
-- BST
-- Graphs
-- Dynamic Programming
-- Backtracking
-- Greedy
-- Trie
-- Bit Manipulation
-- Prefix Sum
-- Math
+<p align="left">
+<a href="https://www.linkedin.com/in/naveenkumar5595"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://github.com/Naveenyadav5595"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://leetcode.com/Naveenyadav5595/"><img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48"/></a>
+</p>
+
+📧 **Email:** pkyy8215@gmail.com
 
 ---
 
-# 📂 Repository Structure
-
-```text
-LeetCode-Solutions/
-│
-├── Arrays/
-├── Strings/
-├── Linked_List/
-├── Graphs/
-├── Trees/
-├── Dynamic_Programming/
-├── ...
-```
-
----
-
-# 📈 GitHub Stats
+# 💻 Tech Stack
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Naveenyadav5595&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenyadav5595&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,docker,postman,linux"/>
+</p>
+
+---
+
+# 🏆 Competitive Programming
+
+- ⭐ **3★ CodeChef**
+- 📈 **1700+ LeetCode Rating**
+- ✅ **700+ DSA Problems Solved**
+- 💯 Regular Contest Participant
+
+---
+
+# 🚀 Featured Projects
+
+### 🏠 WanderLust
+Full-stack Airbnb-inspired MERN application featuring authentication, authorization, image uploads, interactive maps, reviews, and responsive UI.
+
+---
+
+### 🛰️ CretoGee
+AI-powered space image enhancement and crater detection system inspired by SIH 2024.
+
+---
+
+### 💻 LeetCode Solutions
+Well-organized repository containing solutions to hundreds of LeetCode problems categorized by topic.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naveenyadav5595&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenyadav5595&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -86,39 +75,46 @@ LeetCode-Solutions/
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Naveenyadav5595&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Naveenyadav5595&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
+
+[![Naveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveenyadav5595&theme=tokyo-night)](https://github.com/Naveenyadav5595)
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveenyadav5595&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Naveenyadav5595&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
 
-# 💻 Coding Profiles
+# 🐍 Contribution Snake
 
-- 🟠 LeetCode: https://leetcode.com/u/Naveenyadav5595/
-- 🟢 GitHub: https://github.com/Naveenyadav5595
+![Snake animation](https://raw.githubusercontent.com/Naveenyadav5595/Naveenyadav5595/output/github-contribution-grid-snake.svg)
 
 ---
 
-# 🎯 Goals
+# 👀 Profile Visitors
 
-- ✅ Solve **1000+ LeetCode Problems**
-- ✅ Reach **1800+ LeetCode Rating**
-- ✅ Become an Expert in DSA
-- ✅ Crack Top Product-Based Companies
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Naveenyadav5595&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# 💡 Quote of the Day
+
+> "First, solve the problem. Then, write the code." – John Johnson
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Naveenyadav5595&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+⭐ If you like my projects, don't forget to star the repositories!
 </p>
 
----
-
-⭐ **If you find this repository helpful, consider giving it a star!**
