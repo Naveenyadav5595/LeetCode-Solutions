@@ -1,7 +1,7 @@
 <h1 align="center">🚀 LeetCode Solutions</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=520%2B+LeetCode+Problems+Solved;C%2B%2B+Solutions;1700%2B+LeetCode+Rating;3★+CodeChef;Consistency+%7C+Learning+%7C+Growth" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=520%2B+LeetCode+Problems+Solved;1700%2B+LeetCode+Rating;3%E2%98%85+CodeChef;MERN+Stack+Developer;Competitive+Programmer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
