@@ -1,74 +1,105 @@
-# 🚀 30-Day DSA Challenge
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=F77F00&center=true&vCenter=true&width=600&lines=Welcome+to+my+30-Day+DSA+Challenge!;Consistent+coding+leads+to+strong+DSA+skills!)
-
-Welcome to my 30-day journey to master **Data Structures and Algorithms**!  
-📈 I'm solving problems daily on LeetCode and pushing clean, structured solutions to GitHub for consistency and growth.
-
----
-
-## 🧠 Auto-Updating LeetCode Stats
-
-### 🔥 LeetCode Streak
-[![LeetCode Streak](https://leetcard.jacoblin.cool/Naveenyadav5595?theme=dark&font=Baloo+Bhai&extension=activity)](https://leetcode.com/Naveenyadav5595/)
-
-### 🧮 Total Questions Solved
-![LeetCode Stats](https://leetcard.jacoblin.cool/Naveenyadav5595?theme=dark&font=Baloo+Bhai&animation=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Naveenyadav5595&theme=radical&margin-w=15&margin-h=15&row=1)
-
----
-
-## 📊 GitHub Stats
-
-| 🔥 GitHub Stats | 💡 Top Languages |
-|-----------------|------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveenyadav5595&show_icons=true&theme=radical&hide=issues&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenyadav5595&theme=radical&layout=compact&langs_count=6&hide_progress=true) |
-
----
-
-## 📌 Contributions Graph
-
-[![Naveen's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Naveenyadav5595&theme=rogue)](https://github.com/Naveenyadav5595)
-
----
-
-## 🛠️ Tech Stack
-
-- 💻 Languages: C++, Python (a bit), Markdown
-- 📚 DSA Concepts:  
-  - Sliding Window  
-  - Heaps  
-  - Greedy  
-  - Two Pointers  
-  - Prefix Sums  
-  - Binary Search  
-  - Trees  
-  - Hashing
-
----
-
-## 🔗 Connect with Me
+<h1 align="center">🚀 LeetCode Solutions</h1>
 
 <p align="center">
-  <a href="mailto:pkyy8215@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/naveenkumar5595/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Naveenyadav5595" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://leetcode.com/Naveenyadav5595/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=520%2B+LeetCode+Problems+Solved;C%2B%2B+Solutions;1700%2B+LeetCode+Rating;3★+CodeChef;Consistency+%7C+Learning+%7C+Growth" />
+</p>
+
+<p align="center">
+
+![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
+
+![Platform](https://img.shields.io/badge/Platform-LeetCode-orange)
+
+![Problems](https://img.shields.io/badge/Solved-520-brightgreen)
+
+![Repository](https://img.shields.io/badge/Repository-Active-success)
+
 </p>
 
 ---
 
-> ✨ Let’s grow one problem at a time. Stay consistent. Stay curious. 💪
+# 📖 About
+
+This repository contains my accepted **LeetCode** solutions implemented in **C++**.
+
+I use this repository to
+
+- Improve problem-solving skills
+- Prepare for Software Engineering interviews
+- Practice Data Structures & Algorithms
+- Track my coding consistency
+  
+---
+
+# 📊 Current Progress
+
+| Platform | Progress |
+|----------|----------|
+| 🟠 LeetCode Problems Solved | **520+** |
+| ⭐ LeetCode Rating | **1700+** |
+| ⭐ CodeChef | **3★** |
+| 💻 Primary Language | **C++** |
+
+---
+
+# 📚 Topics Covered
+
+- Arrays
+- Strings
+- Hashing
+- Linked List
+- Stack
+- Queue
+- Heap
+- Sliding Window
+- Two Pointers
+- Binary Search
+- Greedy
+- Trees
+- BST
+- Graphs
+- Dynamic Programming
+- Backtracking
+- Trie
+- Bit Manipulation
+- Prefix Sum
+- Math
+
+---
+
+# 📂 Repository Structure
+
+```
+LeetCode-Solutions/
+
+Problem Folder
+│
+├── README.md
+└── solution.cpp
+```
+
+Each problem contains
+
+- Problem Number
+- Problem Title
+- C++ Solution
+
+---
+
+# 🎯 Goal
+
+- ✅ 1000+ LeetCode Problems
+- ✅ 1800+ Rating
+- ✅ Master DSA
+- ✅ Crack Top Product-Based Companies
+
+---
+
+# 🔗 Coding Profiles
+
+- 💻 LeetCode: https://leetcode.com/u/Naveenyadav5595/
+- 🟢 GitHub: https://github.com/Naveenyadav5595
+
+---
+
+⭐ If you find this repository useful, consider giving it a star!
